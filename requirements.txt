@@ -1,0 +1,4 @@
+cvzone==1.6.1
+mediapipe==0.10.5
+mediapy==1.1.9
+pip-chill==1.0.3
